@@ -4,7 +4,10 @@ h3 {
   background-color: yellow;
 }
 
-h3 {
+.contact {
   color: blue;
 }
 
+#correspondence {
+  color: yellow;
+}
